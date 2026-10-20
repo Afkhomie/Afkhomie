@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">Afkhomie — creative developer</title>
+  <desc id="desc">An abstract technical composition with a dark grid, vivid gradient geometry, and the words build, break, understand.</desc>
+  <defs>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7C5CFF"/>
+      <stop offset=".48" stop-color="#31D6C4"/>
+      <stop offset="1" stop-color="#FF5C8A"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#A9B4D0" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="260" rx="12" fill="#0B0D14"/>
+  <rect width="1000" height="260" rx="12" fill="url(#grid)"/>
+  <path d="M620 -20 L810 -20 L680 280 L490 280Z" fill="url(#spectrum)" opacity=".13"/>
+  <path d="M760 -20 L900 -20 L770 280 L630 280Z" fill="url(#spectrum)" opacity=".2"/>
+  <g fill="none" stroke="url(#spectrum)" stroke-width="2">
+    <path d="M665 48h70v42h-42v42h84"/>
+    <path d="M800 48h-24v24h-24v24h-24"/>
+    <circle cx="858" cy="155" r="40"/>
+    <circle cx="858" cy="155" r="25" stroke-opacity=".6"/>
+    <path d="M818 155h80M858 115v80" stroke-opacity=".55"/>
+    <path d="M700 198l28-28 28 28 28-28 28 28" stroke-opacity=".75"/>
+  </g>
+  <g fill="#DCE3F7" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace">
+    <text x="54" y="64" font-size="13" letter-spacing="4" fill="#A7B0C8">AFKHOMIE / ENGINEERING NOTES</text>
+    <text x="50" y="135" font-size="55" font-weight="700" letter-spacing="-2">BUILD.</text>
+    <text x="250" y="135" font-size="55" font-weight="700" letter-spacing="-2" fill="url(#spectrum)">BREAK.</text>
+    <text x="50" y="193" font-size="55" font-weight="700" letter-spacing="-2">UNDERSTAND.</text>
+    <text x="54" y="229" font-size="13" letter-spacing="1.4" fill="#9AA5C2">AI WORKFLOWS  /  BACKEND SYSTEMS  /  AUTOMATION</text>
+  </g>
+  <path d="M54 82h220" stroke="url(#spectrum)" stroke-width="3"/>
+  <circle cx="947" cy="32" r="4" fill="#31D6C4"/>
+  <circle cx="963" cy="32" r="4" fill="#7C5CFF"/>
+  <circle cx="979" cy="32" r="4" fill="#FF5C8A"/>
+</svg>
