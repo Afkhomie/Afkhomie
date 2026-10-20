@@ -1,116 +1,84 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=900&color=F75C7E&center=true&vCenter=true&width=720&lines=yo%2C+I%27m+Nischal;I+build+things+that+probably+started+as+an+idea;AI+agents+%2B+backend+systems+%2B+automation;occasionally+I+make+noise+with+music" alt="Animated intro" />
+<img src="profile-header.svg" width="100%" alt="Afkhomie: Build. Break. Understand. A creative developer focused on AI workflows, backend systems, and automation." />
 
-**developer by day, music guy whenever the code stops compiling**
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Afkhomie-181717?style=for-the-badge&logo=github)](https://github.com/Afkhomie)
+**I build software, tools, and systems that start with a question and end with a working thing.**
+
+[GitHub](https://github.com/Afkhomie) · [Projects](https://github.com/Afkhomie?tab=repositories)
 
 </div>
 
 ---
 
-### `$ whoami`
+### `/about`
 
-- I build software, tools, and slightly-too-ambitious side projects.
-- Currently deep into **AI-assisted development, multi-agent workflows, and automation**.
-- I like backend systems, debugging, and figuring out how the pieces fit together.
-- Co-founder at **SajhaStack**, building around developer communities and hackathons.
-- Outside code: making beats, messing with sound design, and trying to make a band happen.
-- My development philosophy: let AI help write the code; don't let it do the thinking unsupervised.
+- Exploring **AI-assisted engineering, multi-agent workflows, and automation**.
+- Most interested in backend logic, debugging, system behavior, and making separate parts work together.
+- Co-founder at **SajhaStack**, working around developer communities and hackathons.
+- I use AI to accelerate implementation, not outsource judgment. Generated code still has to earn its place.
+- Occasionally making beats and experimenting with sound design. A side quest, not the entire plot.
 
-> currently turning "what if..." into "wait, it actually works?"
+### `/selected-work`
 
-### `~/projects worth a peek`
+A few things worth opening:
 
-<table>
-<tr>
-<td width="50%">
-<h3><a href="https://github.com/Afkhomie/engine-audio-sim">Engine Audio Sim</a></h3>
-Browser-based engine and drivetrain simulation with real-time audio. Physics, gears, clutch behavior, and Web Audio API.
-</td>
-<td width="50%">
-<h3><a href="https://github.com/Afkhomie/Engine_Simulator-Unfinished-">Engine Simulator (WIP)</a></h3>
-A Python GUI and C++ physics experiment for engine behavior, drivetrain simulation, and synthesized engine audio. Still a work in progress, naturally.
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3><a href="https://github.com/Afkhomie/NodeFlow">NodeFlow</a></h3>
-A Windows system application built with Python, PyQt6, and optional native C++.
-</td>
-<td width="50%">
-<h3><a href="https://github.com/Afkhomie/YTMusicAuto">YTMusicAuto</a></h3>
-A small automation tool that finds and clicks YouTube Music's Play All button. Let the computer handle the tiny chores.
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h3><a href="https://github.com/Afkhomie/afk_polybar">AFK Polybar</a></h3>
-A minimal Linux status bar setup with system monitoring, music controls, and a Catppuccin Mocha theme.
-</td>
-</tr>
-</table>
+- **[Engine Audio Sim](https://github.com/Afkhomie/engine-audio-sim)**  
+  Browser-based engine and drivetrain simulation with real-time audio, gears, clutch behavior, and the Web Audio API.
 
-### `toolbox`
+- **[Engine Simulator](https://github.com/Afkhomie/Engine_Simulator-Unfinished-)**  
+  Python GUI and C++ experiments around engine behavior, drivetrain simulation, and synthesized audio.
 
-**Languages and web**
+- **[NodeFlow](https://github.com/Afkhomie/NodeFlow)**  
+  A Windows system application built with Python, PyQt6, and optional native C++.
 
+- **[YTMusicAuto](https://github.com/Afkhomie/YTMusicAuto)**  
+  A small automation tool for handling a repetitive YouTube Music interaction.
+
+- **[AFK Polybar](https://github.com/Afkhomie/afk_polybar)**  
+  A minimal Linux status bar with system monitoring, controls, and a Catppuccin Mocha theme.
+
+### `/toolbox`
+
+**Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frameworks, data, and deployment**
-
+**Frameworks and platforms**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Dev tools and AI**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-ChatGPT · Claude · Google Gemini · Devin CLI · Remote Desktop Commander
+**Workflow**  
+AI-assisted development · CLI tooling · debugging · automation · backend engineering
 
-**Audio and sound design**
-
-FL Studio · Audacity · LMMS · Serum · Vital · Valhalla · SPAN+ · ShaperBox · Web Audio API
-
-### `the stats screen`
+### `/activity`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Afkhomie&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Afkhomie&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub contribution and repository statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afkhomie&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most used public repository languages" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afkhomie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Afkhomie&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Afkhomie&theme=github-compact&hide_border=true&area=true" alt="Public GitHub contribution activity graph" />
 
 </div>
 
-### `one last thing`
+<sub>Stats are generated from public GitHub data by external services. Language cards describe repository contents, not a ranking of personal skill.</sub>
 
-I'm here to build, break, learn, and ship. Some projects get polished; some become educational incidents. Both count.
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:F75C7E&height=100&section=footer" alt="Animated gradient footer" />
+**Curiosity → experiments → working systems.**
 
-<sub>made with curiosity, questionable sleep scheduling, and a terminal that has seen things</sub>
+<sub>Some projects ship. Others teach me exactly what not to do next time.</sub>
 
 </div>
