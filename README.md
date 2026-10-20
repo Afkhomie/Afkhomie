@@ -91,17 +91,25 @@ ChatGPT · Claude · Google Gemini · Devin CLI · Remote Desktop Commander
 
 FL Studio · Audacity · LMMS · Serum · Vital · Valhalla · SPAN+ · ShaperBox · Web Audio API
 
+### `signal / sound design`
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Afkhomie/Afkhomie/main/assets/audio-spectrum.svg" alt="Animated multicolor audio spectrum from the AFK audio lab" />
+
+<sub>beats, synths, sound design, and the occasional low-end experiment</sub>
+
+</div>
+
 ### `the stats screen`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Afkhomie&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afkhomie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Afkhomie&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+<img width="100%" src="https://raw.githubusercontent.com/Afkhomie/Afkhomie/main/metrics.svg" alt="Automatically refreshed GitHub contribution calendar, language activity, and recent public activity" />
 
 </div>
+
+<sub>Generated automatically every day from public GitHub activity. No private repository names or activity are included.</sub>
 
 ### `one last thing`
 
